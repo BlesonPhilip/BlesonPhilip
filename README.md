@@ -1,5 +1,6 @@
-
-Hi , I'm Bleson Philip
+<html>
+           <body>
+<h1> Hi , I'm Bleson Philip</h1>
 I'm a passionate Developer.
 🙋‍♂️ About Me
 
@@ -17,7 +18,8 @@ I'm a passionate Developer.
 Connect with me:
 blesonphilipmca2024@gmail.com
 
--
+</body>
+</html>
 
 <!---
 BlesonPhilip/BlesonPhilip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
