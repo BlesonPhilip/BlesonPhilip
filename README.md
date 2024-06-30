@@ -1,4 +1,22 @@
-- 👋 Hi, I’m @BlesonPhilip
+
+Hi , I'm Bleson Philip
+I'm a passionate Developer.
+🙋‍♂️ About Me
+
+🔭 Master of Computer Applications(MCA).
+
+🌱 I’m currently learning React, Python Fullstack
+
+
+📫 How to reach me blesonphilipmca2024@gmail.com
+
+
+🚀 Languages and Tools:
+           HTML,CSS,JAVASCRIPT,PYTHON
+
+Connect with me:
+blesonphilipmca2024@gmail.com
+
 -
 
 <!---
