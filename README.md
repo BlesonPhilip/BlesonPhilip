@@ -4,7 +4,7 @@
                       
 <h2>I'm a passionate Developer.</h2><br><br>
 <h2>
-🙋‍♂️ About Me
+🙋‍♂️ About Me<br>
 
 🔭 Master of Computer Applications(MCA).
 
