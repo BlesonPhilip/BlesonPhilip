@@ -1,10 +1,11 @@
 <html>
-           <body>
-<h1> Hi , I'm Bleson Philip</h1>
+ <body>
+<h1> Hi , I'm Bleson Philip </h1>
                       
 <h2>I'm a passionate Developer.</h2><br><br>
+
 <h2>
-🙋‍♂️ About Me<br>
+🙋‍♂️ About Me <br><br>
 
 🔭 Master of Computer Applications(MCA).
 
@@ -15,7 +16,7 @@
 
 
 🚀 Languages and Tools:
-           HTML,CSS,JAVASCRIPT,PYTHON
+           HTML,CSS,JAVASCRIPT,Php,Python
 
 Connect with me:
 blesonphilipmca2024@gmail.com</h2>
