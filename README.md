@@ -18,8 +18,8 @@
 🚀 Languages and Tools:
            HTML,CSS,JAVASCRIPT,Php,Python
 
-Connect with me:
-blesonphilipmca2024@gmail.com</h2>
+  Connect with me:
+  blesonphilipmca2024@gmail.com </h2>
 
 </body>
 </html>
