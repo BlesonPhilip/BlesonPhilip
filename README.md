@@ -34,23 +34,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
----
 
-<h2>📊 GitHub Stats</h2>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlesonPhilip&show_icons=true&theme=radical" alt="blesonphilip-stats"/>
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=BlesonPhilip&theme=radical" alt="blesonphilip-streak"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlesonPhilip&layout=compact&theme=radical" alt="top-langs"/>
-</p>
-
----
 
 <h2>📬 Connect with Me</h2>
 
